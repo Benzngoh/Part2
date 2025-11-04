@@ -1,0 +1,9 @@
+Scheduling: By Minimum Freight
+1,F02,Amsterdam,07:20am,MegaCarrier,12,7,C01,Amsterdam,07:20am,5,0
+2,F02,Amsterdam,07:20am,MegaCarrier,12,2,C02,Amsterdam,07:25am,5,0
+3,F37,Jakarta,09:30pm,CargoCruiser,6,4,C15,Jakarta,09:41pm,2,0
+4,F25,Tokyo,05:10pm,CargoCruiser,6,0,C13,Tokyo,05:10pm,8,2
+5,F14,Tokyo,05:10pm,CargoCruiser,6,4,C13,Tokyo,05:10pm,8,0
+6,F14,Tokyo,05:10pm,CargoCruiser,6,0,C14,Tokyo,05:20pm,10,6
+7,F48,Paris,11:59pm,MiniMover,2,0,C58,Paris,11:59pm,2,0
+8,F26,Tokyo,05:15pm,MiniMover,2,0,C14,Tokyo,05:20pm,10,4

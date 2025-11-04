@@ -1,0 +1,4 @@
+1,C13,Tokyo,1705,F53,Tokyo,1705
+2,C24,Tokyo,1710,F14,Tokyo,1710
+3,C15,Bangkok,2130,F37,Bangkok,2130
+4,C36,Chiang Mai,2359,F48,Chiang Mai,2359
