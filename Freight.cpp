@@ -17,6 +17,7 @@ Freight::Freight(int idnumber, string destination, int timeh, int timem, string 
 	System(idnumber, destination, timeh, timem)
 {
     freighttype = freighttp;
+    setmaxcapacity();
 }
 
 Freight::Freight() {
